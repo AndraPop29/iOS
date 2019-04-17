@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  FlowControllersExample
+
+  Created by Andra Pop on 19/03/2018.
+  Copyright © 2018 Halcyonmobile. All rights reserved.
+*/
+
+//GENERAL
+"andi.name" = "ANDI";
+"andra" = "ANDRA";
+"main.button.title" = "Noemi";
+

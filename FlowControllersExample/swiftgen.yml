@@ -1,0 +1,4 @@
+strings:
+  paths: ./FlowControllersExample/Localizable.strings
+  templateName: structured-swift3
+  output: ./FlowControllersExample/Generated/Strings.swift
